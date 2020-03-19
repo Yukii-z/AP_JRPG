@@ -1,0 +1,7 @@
+EnemyType,Name,Life
+Enemy,B,10
+Enemy,C,10
+Enemy,D,20
+Friend,E,20
+Friend,F,15
+Friend,G,5
