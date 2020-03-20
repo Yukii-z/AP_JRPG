@@ -1,0 +1,4 @@
+Name,Target,Range,Effect
+Critical,Enemy,1,-5
+Range,Enemy,999,-2
+Heal,Friend,1,4
